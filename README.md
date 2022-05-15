@@ -1,5 +1,4 @@
-# Yo
-## Yoyo
+### Yo
 
 Just a uni student who wants to code :)
 

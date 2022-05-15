@@ -1,12 +1,26 @@
 ### Yo
 
 Just a uni student who wants to code :)
-
-<div id="header">
+<h1 style ="font-size:100px;">  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  &emsp;&emsp;&emsp;&emsp;
+  Random Page 🙂
+  &emsp;&emsp;&emsp;&emsp;
+  <img src ="https://media.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif" width="250"/>
+</h1>
+
+
+<div align = "center">
+  <img src ="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="1000"/>
 </div>
+  
+
+
+
 
 <!--
+<img src = "https://media.giphy.com/media/elKG8f46lh3BvQkCOp/giphy.gif" width="200"/>
+&emsp;
 **petaa1/petaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

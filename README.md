@@ -1,4 +1,6 @@
-### Hi there 👋
+# Yo
+
+Just a uni student who wants to code :)
 
 <!--
 **petaa1/petaa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

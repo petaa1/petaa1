@@ -1,12 +1,10 @@
 ### Yo
 
 Just a uni student who wants to code :)
-<h1 style ="font-size:100px;">  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-  &emsp;&emsp;
-  Random Page 🙂
-  &emsp;&emsp;
-  <img src ="https://media.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif" width="250"/>
+<h1 style ="font-size:100px;" align = "center">  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align ="left"/>
+  Random Page
+  <img src ="https://media.giphy.com/media/Y1IFN5kK9E7fO/giphy.gif" width="250" align = "right"/>
 </h1>
 
 

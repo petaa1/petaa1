@@ -1,5 +1,6 @@
-### Yo
+### 
 
+<!--
 Just a uni student who wants to code :)
 <h1 style ="font-size:100px;" align = "center">  
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" align ="left"/>
@@ -11,7 +12,7 @@ Just a uni student who wants to code :)
 <div align = "center">
   <img src ="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="1000"/>
 </div>
-  
+-->
 
 
 
